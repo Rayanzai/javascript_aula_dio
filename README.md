@@ -18,3 +18,10 @@
 - Uso de condicionais If e else
 - Laços de repetição while e for
 - Uso do new Date()
+
+## Aula 4
+
+- Utilização de funções
+
+## Aula 5
+
