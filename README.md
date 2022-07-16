@@ -11,3 +11,10 @@
 - .push(), .pop(), .length, .reverse(), .toString(), .join()
 - Uso de dicionário
 - Criação de Dicionário de listas
+
+## Aula 3
+
+- Uso do prompt
+- Uso de condicionais If e else
+- Laços de repetição while e for
+- Uso do new Date()
